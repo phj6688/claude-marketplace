@@ -1,0 +1,34 @@
+{
+  "name": "phj",
+  "owner": {
+    "name": "Peyman",
+    "email": "peyman.h.j@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "linear-issue-craft",
+      "description": "Portable Claude Code skill for writing high-signal Linear issues (epics, stories, hardening tickets) in any workspace.",
+      "source": {
+        "source": "git-subdir",
+        "url": "phj6688/linear-issue-craft",
+        "path": "skill"
+      }
+    },
+    {
+      "name": "forge-protocol",
+      "description": "FORGE v3. Autonomous agent delegation protocol for spec-driven multi-session software builds.",
+      "source": {
+        "source": "github",
+        "repo": "phj6688/forge-protocol-skill"
+      }
+    },
+    {
+      "name": "codestory",
+      "description": "Turn any codebase into a beautifully animated book of workflows. Single HTML file.",
+      "source": {
+        "source": "github",
+        "repo": "phj6688/codestory"
+      }
+    }
+  ]
+}
