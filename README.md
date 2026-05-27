@@ -2,6 +2,8 @@
 
 Personal Claude Code plugin marketplace bundling the skills and plugins I maintain.
 
+![Marketplace demo](docs/images/demo.gif)
+
 ## Install on any machine (one-time)
 
 ```
@@ -9,6 +11,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 /plugin install linear-issue-craft@phj
 /plugin install forge-protocol@phj
 /plugin install codestory@phj
+/plugin install orchestrate-linear@phj
 ```
 
 ## Pull updates everywhere
@@ -24,6 +27,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 | `linear-issue-craft` | [phj6688/linear-issue-craft](https://github.com/phj6688/linear-issue-craft) | `git-subdir` at `skill/` |
 | `forge-protocol` | [phj6688/forge-protocol-skill](https://github.com/phj6688/forge-protocol-skill) | `github` (root `SKILL.md`) |
 | `codestory` | [phj6688/codestory](https://github.com/phj6688/codestory) | `github` (`.claude-plugin/plugin.json` at root) |
+| `orchestrate-linear` | [phj6688/orchestrate-linear](https://github.com/phj6688/orchestrate-linear) | `github` (`.claude-plugin/plugin.json` at root) |
 
 ## Auth notes
 
