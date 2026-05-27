@@ -33,7 +33,10 @@
     {
       "name": "orchestrate-linear",
       "description": "Orchestrate a Linear backlog: a thin orchestrator fans out a planner plus per-issue implement/review/verify subagents, loops until green, and auto-merges to the integration branch.",
-      "source": "./plugins/orchestrate-linear"
+      "source": {
+        "source": "github",
+        "repo": "phj6688/orchestrate-linear"
+      }
     }
   ]
 }
