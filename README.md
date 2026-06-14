@@ -12,6 +12,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 /plugin install forge-protocol@phj
 /plugin install codestory@phj
 /plugin install orchestrate-linear@phj
+/plugin install backlog-ship@phj
 ```
 
 ## Pull updates everywhere
@@ -28,6 +29,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 | `forge-protocol` | [phj6688/forge-protocol-skill](https://github.com/phj6688/forge-protocol-skill) | `github` (root `SKILL.md`) |
 | `codestory` | [phj6688/codestory](https://github.com/phj6688/codestory) | `github` (`.claude-plugin/plugin.json` at root) |
 | `orchestrate-linear` | [phj6688/orchestrate-linear](https://github.com/phj6688/orchestrate-linear) | `github` (`.claude-plugin/plugin.json` at root) |
+| `backlog-ship` | [phj6688/backlog-ship](https://github.com/phj6688/backlog-ship) | `github` (`.claude-plugin/plugin.json` at root) |
 
 ## Auth notes
 
