@@ -45,6 +45,14 @@
         "source": "github",
         "repo": "phj6688/backlog-ship"
       }
+    },
+    {
+      "name": "bulletproof-ci",
+      "description": "Generate a per-stack GitHub Actions CI workflow whose jobs funnel into one aggregate gate job, and optionally apply matching branch protection. One required check, no deadlock.",
+      "source": {
+        "source": "github",
+        "repo": "phj6688/bulletproof-ci"
+      }
     }
   ]
 }
