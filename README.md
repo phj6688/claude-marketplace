@@ -14,6 +14,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 /plugin install orchestrate-linear@phj
 /plugin install backlog-ship@phj
 /plugin install bulletproof-ci@phj
+/plugin install llm-council@phj
 ```
 
 ## Pull updates everywhere
@@ -32,6 +33,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 | `orchestrate-linear` | [phj6688/orchestrate-linear](https://github.com/phj6688/orchestrate-linear) | `github` (`.claude-plugin/plugin.json` at root) |
 | `backlog-ship` | [phj6688/backlog-ship](https://github.com/phj6688/backlog-ship) | `github` (`.claude-plugin/plugin.json` at root) |
 | `bulletproof-ci` | [phj6688/bulletproof-ci](https://github.com/phj6688/bulletproof-ci) | `github` (`.claude-plugin/plugin.json` at root) |
+| `llm-council` | [phj6688/llm-council](https://github.com/phj6688/llm-council) | `github` (`.claude-plugin/plugin.json` at root) |
 
 ## Auth notes
 
