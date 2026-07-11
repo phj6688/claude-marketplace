@@ -64,7 +64,7 @@
     },
     {
       "name": "drawio",
-      "description": "Verified draw.io diagram authoring: deterministic validator, headless render loop with blank guard, crop-based visual review, and a cited completion record. Hand grid up to 12 nodes, ELK engine placement above.",
+      "description": "Verified draw.io diagram authoring: deterministic validator, headless render loop with blank guard, crop-based visual review, and a cited completion record. Hand grid up to 12 nodes, ELK engine placement for 13 to 25, larger diagrams split by abstraction level.",
       "source": {
         "source": "github",
         "repo": "phj6688/drawio-skill"
