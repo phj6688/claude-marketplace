@@ -77,6 +77,14 @@
         "source": "github",
         "repo": "phj6688/useroutput-skill"
       }
+    },
+    {
+      "name": "webdesign",
+      "description": "One web design and UX/UI skill merged from five upstream tools: tokens first, a measured palette, a deterministic linter for the known AI design tells, and headless screenshots at every breakpoint in light and dark before the work is called done.",
+      "source": {
+        "source": "github",
+        "repo": "phj6688/webdesign-skill"
+      }
     }
   ]
 }
