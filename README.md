@@ -18,6 +18,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 /plugin install drawio@phj
 /plugin install useroutput@phj
 /plugin install webdesign@phj
+/plugin install high-accuracy-work@phj
 ```
 
 ## Pull updates everywhere
@@ -40,6 +41,7 @@ Personal Claude Code plugin marketplace bundling the skills and plugins I mainta
 | `drawio` | [phj6688/drawio-skill](https://github.com/phj6688/drawio-skill) | `github` (`.claude-plugin/plugin.json` at root) |
 | `useroutput` | [phj6688/useroutput-skill](https://github.com/phj6688/useroutput-skill) | `github` (`.claude-plugin/plugin.json` at root) |
 | `webdesign` | [phj6688/webdesign-skill](https://github.com/phj6688/webdesign-skill) | `github` (`.claude-plugin/plugin.json` at root) |
+| `high-accuracy-work` | [phj6688/high-accuracy-work-skill](https://github.com/phj6688/high-accuracy-work-skill) | `github` (`.claude-plugin/plugin.json` at root) |
 
 ## Auth notes
 
